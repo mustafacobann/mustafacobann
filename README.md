@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 👨🏻‍💻 **iOS Developer**
-- 🇹🇷 lives in **Istanbul, Turkey**
+- 🇹🇷 lives in **Istanbul, Türkiye**
 - 🎓 holds a bachelor's degree in **Computer Engineering** from **Istanbul Technical University**
