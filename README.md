@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 **iOS Developer**
+- 👨🏻‍💻 **Software Engineer**
 - 🇹🇷 lives in **Istanbul, Türkiye**
 - 🎓 holds a bachelor's degree in **Computer Engineering** from **Istanbul Technical University**
