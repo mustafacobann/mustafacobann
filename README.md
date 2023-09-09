@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 **Software Engineer**
+- 👨🏻‍💻 **Software Engineer** at **Delivery Hero**
 - 🇹🇷 lives in **Istanbul, Türkiye**
 - 🎓 holds a bachelor's degree in **Computer Engineering** from **Istanbul Technical University**
