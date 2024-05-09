@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 **Software Engineer** at **Delivery Hero**
-- 🇹🇷 lives in **Istanbul, Türkiye**
+- 👨🏻‍💻 **iOS Engineer** at **Doctolib Siilo**
+- 🇹🇷 born and raised in **Istanbul, Türkiye**
+- 🇳🇱 lives in **Utrecht, Netherlands**
 - 🎓 holds a bachelor's degree in **Computer Engineering** from **Istanbul Technical University**
